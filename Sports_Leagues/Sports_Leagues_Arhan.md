@@ -1,66 +1,112 @@
-EPL
+# Sports Leagues Revenue Analysis
 
-It is the richest football league in the world, the revenue it generated was greater than the other top 5 leagues’ revenues combined.
+## English Premier League (EPL)
 
-How it Makes Money
+### Overview
+The EPL is the richest football league in the world, generating more revenue than the other top five leagues combined.
 
-Broadcast Rights: The main form of revenue. The EPL gets revenue from both local broadcast rights (within the UK) and international broadcast rights. The broadcast rights have been continuously increasing, and the revenue from international rights surpassed local broadcast rights for the first time in the 2022-25 period.
+### How it Makes Money
 
-Commercial Partnerships and Sponsorships: The Premier League operates a compact but highly exclusive portfolio of seven official partners and 5 official licenses
+- **Broadcast Rights**
+  - The main revenue source.
+  - Revenue comes from local UK broadcast rights and international broadcast rights.
+  - Broadcast rights have been continuously increasing, and international rights revenue surpassed local rights for the first time in the 2022–25 period.
 
-         Club sponsors contribute to an individual club’s revenue. In contrast to how broadcast rights are split evenly between the 20 clubs, the revenue of a club from individual sponsors varies greatly. More popular clubs like Manchester United earn more than less popular clubs.
+- **Commercial Partnerships and Sponsorships**
+  - The Premier League operates a compact portfolio of seven official partners and five official licenses.
+  - Club sponsors contribute to each club’s revenue.
+  - Broadcast rights are split evenly between the 20 clubs, while individual sponsorship revenue varies widely.
+  - More popular clubs like Manchester United earn significantly more from sponsors than smaller clubs.
+  - Sponsors advertise primarily on jerseys, with the front of the jersey commanding the highest fees and the sleeve generating less.
 
-Sponsors advertise themselves primarily on the clubs’ jerseys: the most money is paid for advertising on the front of the jersey, and lesser is paid for advertising on the sleeve.
+- **Matchday Revenue**
+  - Clubs earn revenue from ticket sales, food and drink, hospitality, and other home game activities.
+  - The EPL does not take a cut of matchday revenue.
+  - Clubs with larger stadiums and more fans earn more matchday revenue.
 
-Matchday Revenue: Clubs earn revenue from ticket sales, food and drink, hospitality, etc. (home games), and the EPL does not take a cut. Again, different clubs earn different revenues. Popular clubs with bigger stadiums make more money.
+- **Prize Money**
+  - Clubs finishing in higher table positions qualify for European competitions such as the Champions League, Europa League, and Conference League.
+  - More prestigious competitions yield greater prize money.
+  - Clubs receive fixed payments for qualification and additional revenue as they advance.
 
-Prize Money: Clubs finishing in higher positions qualify for European competitions such as the Champions League, Europa League, and the Conference League. The more prestigious the European Competition, the greater the money earned. Clubs receive a fixed payment for qualifying and earn more the more they advance in the competition.
+### How the Money is Split
 
-How the Money is Split
+- Every club receives the same amount from broadcast rights and central sponsorship deals.
+- A portion of EPL revenue is passed down to lower leagues and grassroots football.
+- Higher table positions earn more money.
+- Clubs selected for live domestic broadcasts earn facility fees.
 
-Every club receives the same amount of money from broadcast rights and central sponsorships. A portion of the revenue is passed down to lower leagues and grassroot leagues.
+### What Makes the EPL Valuable?
 
-The higher a club’s position in the table, the more money they earn.
+- English-language broadcasts make the EPL accessible to a wide international audience.
+- High revenues allow the league to attract top players and maintain a high quality of football.
+- Revenue sharing among clubs creates strong competition and increases viewership.
 
-When a club is selected for live domestic broadcast, they earn facility fees.
+## Indian Premier League (IPL)
 
-What makes the EPL Valuable?
+### Overview
+The IPL is the most popular sports league in India and one of the most valuable cricket leagues in the world.
 
-As it is broadcasted in English, it is accessible to a wide range of international audiences. Being the league with the greatest revenue, it has the highest quality of football as it is able to attract various players. Due to the EPL sharing so much of its revenue evenly between clubs, there is also a lot of competition, increasing viewership.
+### How it Makes Money
 
+- **Media Rights**
+  - The main revenue source.
+  - Rights revenue is split between TV and streaming platforms.
 
-IPL
+- **Sponsorship**
+  - Title sponsors like Tata and associate sponsors contribute significant funds.
+  - Each team has multiple sponsors, including front-of-jersey and sleeve sponsors.
 
-How it Makes Money
+- **Matchday Revenue**
+  - Teams earn revenue from ticket sales and hospitality at home games.
+  - BCCI plans to increase the number of games year by year, which should grow home game revenue.
+  - BCCI and stakeholders take a 20% cut from matchday revenue.
 
+- **Merchandise**
+  - Teams earn a relatively small amount from merchandise sales.
 
-The main source of revenue for the IPL is media rights, split into TV rights and streaming rights. Title sponsors like Tata and associate sponsors contribute a lot of money too. Each team also has various sponsors, especially on the front of the jersey and sleeve of the jersey.
+### How the Money is Split
 
-Teams make revenue from ticket sales and hospitality during home games. BCCI plans to increase the number of games year by year, meaning that the revenue from home games will increase as well. However, BCCI and other stakeholders take a 20% cut from this. Finally, teams get a relatively small amount of revenue from merchandise.
+- BCCI retains about 50% of central revenues from sponsorships and broadcast rights.
+- 45% of central revenues are distributed among teams, with higher-finishing teams earning more.
+- 5% is allocated as prize money.
+- Teams receive a guaranteed fixed payment per season as their share of central revenues.
+- BCCI takes 12.5% of each team’s licensing revenue.
+- Teams must pay a license fee to participate in the IPL.
 
-How is the Money Split?
+### What Makes the IPL Valuable?
 
-The BCCI retains about 50% of central revenues (sponsorships and broadcast rights), then distributes 45% of this among the teams, with teams finishing higher earning more. 5% is allocated as prize money. Teams receive a fixed payment per season as their guaranteed share of central revenues.
+- The IPL is the largest and most popular sports league in India.
+- It has unmatched reach and engagement compared to other Indian sports leagues.
 
-The BCCI takes 12.5% of each team's licensing revenue as well. Teams must also pay a license fee to participate in the IPL.
+## National Basketball Association (NBA)
 
-What makes the IPL Valuable?
+### Overview
+The NBA is the world's leading basketball league and attracts viewers from multiple international markets.
 
-Being one of the most popular sports in India, there is no other league as big as the IPL.
+### How it Makes Money
 
-NBA
- How does it make money?
+- **Broadcast Rights**
+  - National broadcast rights generate significant league revenue.
+  - Teams also negotiate local TV contracts, with more popular teams earning more.
 
-National Broadcast Rights:
-Teams also negotiate local contracts with local TV networks, with the more popular teams earning more. In addition, teams earn significant revenue from ticket sales, especially courtside seats.
+- **Ticket Sales**
+  - Teams earn significant revenue from ticket sales, especially courtside seats.
 
-The league also earns money from sponsorships on jerseys and merchandise and licensing (to video games and apparel)
+- **Sponsorship and Licensing**
+  - The league earns money from sponsorships, jersey deals, merchandise, and licensing for video games and apparel.
 
-How is the money split?
- All significant revenue streams are pooled into a BRI (Basketball Related Income). Players are entitled to 51% of the BRI and Owners retain 49%. This funds players’ salaries. The BRI determines the salary cap of players.
+### How the Money is Split
 
-National Broadcast Revenue is divided equally among all the teams. 400 million dollars is redistributed from high revenue earning teams to low revenue earning teams. Teams that exceed the salary cap pay a luxury tax on every dollar above the threshold, which is distributed among non-taxpaying teams.
+- All major revenue streams are pooled into Basketball Related Income (BRI).
+- Players receive 51% of the BRI, while owners retain 49%.
+- The BRI determines the salary cap used to fund player salaries.
+- National broadcast revenue is divided equally among all teams.
+- $400 million is redistributed from high-revenue teams to low-revenue teams.
+- Teams that exceed the salary cap pay a luxury tax on every dollar above the threshold, which is distributed among non-taxpaying teams.
 
-What makes the NBA valuable?
+### What Makes the NBA Valuable?
 
-As the biggest basketball league in the world, it attracts viewers from all over the world. There are multiple international markets interested in the NBA.
+- The NBA is the biggest basketball league in the world.
+- It attracts a global audience and strong international market interest.
+
