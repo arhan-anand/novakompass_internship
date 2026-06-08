@@ -1,4 +1,4 @@
-The Business ofSport: How the EPL, IPL, and NBA Make (and Split) Their Money
+ The Business ofSport: How the EPL, IPL, and NBA Make (and Split) Their Money
 
 
 Overview
